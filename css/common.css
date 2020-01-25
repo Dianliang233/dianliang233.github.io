@@ -1,0 +1,6 @@
+div.error {
+    color: red;
+    font-size: 3em;
+    clear: both;
+    margin: auto auto auto;
+}

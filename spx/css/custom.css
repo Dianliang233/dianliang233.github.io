@@ -1,0 +1,7 @@
+iframe {
+    margin: none;
+    padding: 1em;
+    border: none;
+    height: max-content;
+    width: max-content;
+}
